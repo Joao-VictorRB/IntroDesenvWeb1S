@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: ghostwhite;
+}
+
+.titulo{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5rem;
+    color: #000;
+}
+
+.Hs{
+    text-align: center;
+    font-size: 25px;
+}
+
+h1{
+    color: #ADD8E6;
+}
+
+h2{
+    color: #87CEEB;
+}
+
+h3{
+    color: #4169E1;
+}
+
+h4{
+    color: #40E0D0;
+}
+
+h5{
+    color:#000080;
+}
+
+h6{
+    color: #000033;
+}
